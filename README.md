@@ -9,3 +9,5 @@ Para realizar o desafio geral utilizei a biblioteca Pandas em Python, na iDE VSC
 Abaixo, segue o arquivo da base de dados já tratada e enriquecida:
 https://1drv.ms/x/c/d644b1998bf383c2/EdgwQ8rabQFFsnX20ITDbQMBny6RbOXu_5ru931kMiPV1g?e=rVUPgG
 
+Também segue o pdf gerado no sidequest, contendo os gráficos e insights:
+https://1drv.ms/b/c/d644b1998bf383c2/EXkg67fmg6VDq-yHiSUDXT0BsrLilpe-NdyepCMFXoGHMg?e=qcqGIG
